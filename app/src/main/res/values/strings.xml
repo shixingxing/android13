@@ -10,6 +10,7 @@
     <string name="button_2">图片权限</string>
     <string name="button_3">视频权限</string>
     <string name="button_4">音频权限</string>
+    <string name="button_5">通知权限</string>
 
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
